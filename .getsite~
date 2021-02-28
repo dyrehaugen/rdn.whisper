@@ -1,0 +1,4 @@
+cd ~/zwww/rbd/rde
+# rm -rf *
+find . -not -path '*/\.*' -delete
+cp -rp ~/zrbd/rde/public/* .

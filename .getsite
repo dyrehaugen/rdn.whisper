@@ -1,0 +1,4 @@
+cd ~/zwww/rbd/rdn
+# rm -rf *
+find . -not -path '*/\.*' -delete
+cp -rp ~/zrbd/rdn/public/* .
