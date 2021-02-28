@@ -1,0 +1,2 @@
+# rdn
+Blog in Norwegian
