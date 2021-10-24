@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Dyrehaugen</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Posts on Dyrehaugen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oljestopp</title>
       <link>/2021/08/10/oljestopp/</link>
@@ -88,9 +84,9 @@ Det hele startet med at toalettet gikk lekk, en uke før jeg skulle reise hjem t
       
       <guid>/2017/11/03/politikk-og-forskning/</guid>
       <description>Innvandringsøkonomi - langsiktige analyser Statistisk sentralbyrå (SSB) har regnet på norsk økonomi med og uten innvandring fra 2016 til 2100.
- Med innvandring må petroleumsformuen deles på svært mange flere.
- Stadig større andel innvandrere antas å ville komme fra ikke-vestlige land og og ha lavere sysselsettingsandel og lønn (enn norskfødte)
- Norge har hatt svak produktivitetsutvikling det siste tiået og dette antas å fortsette.
+  Med innvandring må petroleumsformuen deles på svært mange flere.
+  Stadig større andel innvandrere antas å ville komme fra ikke-vestlige land og og ha lavere sysselsettingsandel og lønn (enn norskfødte)
+  Norge har hatt svak produktivitetsutvikling det siste tiået og dette antas å fortsette.
   Beregninge viser at innvandringen forsterker de problemene som aldringen skaper for finansiering av velferden, men at virkningen svekkes over tid.</description>
     </item>
     
